@@ -1,7 +1,7 @@
 {
     "python.pythonPath": "venv/bin/python",
     "python.testing.pytestArgs": [
-        "venv"
+        "tests"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
